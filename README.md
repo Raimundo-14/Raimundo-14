@@ -9,5 +9,5 @@ Raimundo-14/Raimundo-14 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 Me chamo Raimundo, sou engenheiro agrônomo, em mudança de carreira, futuro FULLSTACK
-Me dedicando a estudar HTML, CSS E JAVASCRIPT
+Me dedicando a estudar HTML, CSS E JAVASCRIPT.
 Aluno da FULLTURE
