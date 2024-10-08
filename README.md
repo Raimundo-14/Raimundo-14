@@ -2,4 +2,4 @@
 --->
 Me chamo Raimundo, sou engenheiro agrônomo, em mudança de carreira, futuro FULLSTACK
 Me dedicando a estudar HTML, CSS E JAVASCRIPT.
-Aluno da FULLTURE
+Aluno da UNIESP
